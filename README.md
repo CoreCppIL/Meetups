@@ -1,2 +1,3 @@
 # Meetups
-Slides and presentations
+
+Slides and presentations from our meetings.
