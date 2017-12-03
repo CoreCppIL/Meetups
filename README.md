@@ -7,7 +7,7 @@ Note that not all presentation slides are optimized for reading without the acco
 
 Find us on:
 
-- [Meetup](meetup.com/CoreCpp)
-- [GitHub](github.com/CoreCppIL)
+- [Meetup](https://meetup.com/CoreCpp)
+- [GitHub](https://github.com/CoreCppIL)
 - [Slack](https://cpplang.slack.com/messages/C7UFRMFBP)
-- [Facebook](facebook.com/IsraelCpp) 
+- [Facebook](https://facebook.com/IsraelCpp) 
