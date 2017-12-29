@@ -1,5 +1,5 @@
 # Kick-Off Meeting! 
-Our first user group meeting ever!
+2017-11-30: Our first user group meeting ever!
 
 ## Contents:
 - [Presenting the Core C++ Users Group](Shavit_CoreC++Kick-Off.pdf), Adi Shavit (PDF)
