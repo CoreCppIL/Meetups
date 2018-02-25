@@ -1,5 +1,5 @@
 # Spectre and More!
-2018-01-29: Our 3nd user group meeting.
+2018-01-29: Our 3rd user group meeting.
 
 ## Contents:
 - [News and Updates](Shavit_20180129_CoreC++NewsUpdates.pdf), Adi Shavit (PDF)
