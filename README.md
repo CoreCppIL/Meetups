@@ -9,5 +9,6 @@ Find us on:
 
 - [Meetup](https://meetup.com/CoreCpp)
 - [GitHub](https://github.com/CoreCppIL)
+- [YouTube](https://www.youtube.com/channel/UCE14XYFaK1fDTnOTqlOFrrQ)
 - [Slack](https://cpplang.slack.com/messages/C7UFRMFBP)
 - [Facebook](https://facebook.com/IsraelCpp) 
