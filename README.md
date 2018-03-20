@@ -7,7 +7,11 @@ Note that not all presentation slides are optimized for reading without the acco
 
 Presentations and materials:
 
-- [SIMD, Span and Salami](2018-03-15_SIMD-Span-and-Salami) 15 March 2018
+- [SIMD, Span And Salami](2018-03-15_SIMD-Span-and-Salami) 15 Mar 2018
+- [Hard Core C++](2018-02-22_Hard-Core-C++) 22 Feb 2018
+- [Spectre And More](2018-01-29_Spectre-And-More) 19 Jan 2018
+- [End of Year Inspirations](2017-12-28_End-Of-Year-Inspirations) 28 Dec 2017
+- [Kick-Off Meeting](2017-11-30_Kick-Off-Meeting) 30 Nov 2017
 
 Find us on:
 
