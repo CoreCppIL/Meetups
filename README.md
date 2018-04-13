@@ -7,6 +7,7 @@ Note that not all presentation slides are optimized for reading without the acco
 
 Presentations and materials:
 
+- [C++ Distilled: Language Focus](2018-04-12_C++-Distilled) 12 Apr 2018
 - [SIMD, Span And Salami](2018-03-15_SIMD-Span-and-Salami) 15 Mar 2018
 - [Hard Core C++](2018-02-22_Hard-Core-C++) 22 Feb 2018
 - [Spectre And More](2018-01-29_Spectre-And-More) 19 Jan 2018
@@ -19,5 +20,5 @@ Find us on:
 - [GitHub](https://github.com/CoreCppIL)
 - [YouTube](https://www.youtube.com/channel/UCE14XYFaK1fDTnOTqlOFrrQ)
 - [Slack](https://cpplang.slack.com/messages/C7UFRMFBP)
-- [Facebook](https://facebook.com/IsraelCpp)
+- [Facebook](https://facebook.com/corecpp)
 - [Twitter](https://twitter.com/corecpp)
