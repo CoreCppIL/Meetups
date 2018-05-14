@@ -10,7 +10,7 @@ In the current meetup locations there are LCD displays installed, so there's no 
 - We will be showing signs with remaining time as the limit will be approaching
 
 ## Session Recording
-- We always ask whether you agree for the session to be recorded and shared on YouTube
+- We always ask whether you consent for the session to be recorded and shared on YouTube
 - During the session we record both the screen capture and a live video
 - The video is recorded with a static camera, with a limited field of view. The area which is visible to the camera will be marked with a tape stripes on the floor, please try to stay within the borders during your talk.
 - The voice is recorded using a stationary mic, the best sound is produced when you speak in the direction of the audience
