@@ -8,6 +8,7 @@ Slides, presentations and reference material from our meetings.
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
 **2018**
+- [Practical C++ with Asio and Variant](2018-05-28_Practical-C++Asio-Variant) 28 May 2018
 - [C++ Distilled: Language Focus](2018-04-12_C++-Distilled) 12 Apr 2018
 - [SIMD, Span And Salami](2018-03-15_SIMD-Span-and-Salami) 15 Mar 2018
 - [Hard Core C++](2018-02-22_Hard-Core-C++) 22 Feb 2018
