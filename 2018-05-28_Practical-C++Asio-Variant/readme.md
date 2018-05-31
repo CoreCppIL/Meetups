@@ -4,7 +4,7 @@
 ## Contents:
 - [News and Updates](20180315_Practical_C++_with_Asio_and_Variant.pdf), Adi Shavit (PDF)
 - [C4GC: Contributing](20180528_C4GC_Contributing.pdf) (Core C++ C++ Core Guidelines Corner), Shalom Craimer (PDF)
-- Boost.Asio, Avishai Orpaz
+- [Boost.Asio](Aynchronous IO with boost.pdf), Avishai Orpaz (PDF, [Code Samples](boost-asio-demo))
 - [std::variant<>](Variants.pdf), Dvir Yitzchaki (PDF, [Code Samples](VariantsSamples))
 
 We are grateful to the sponsors of our meeting:  
