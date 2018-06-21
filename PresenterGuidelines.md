@@ -1,5 +1,5 @@
 # Core C++ User Group: Presenter Guidelines
-The goal of this document is to proide hints for the best video recording in the meetups (and not a general presenter's guidelines).
+The goal of this document is to provide hints for the best video recording in the meetups (and not a general presenter's guidelines).
 
 ## Slides Preparation
 In the current meetup locations there are LCD displays installed, so there's no need to optimize the color palette to projector.
@@ -17,4 +17,4 @@ In the current meetup locations there are LCD displays installed, so there's no 
 - It's recommended not to point by hand at the projected slide, but use a mouse/other pointing device, so is will get recorded as well
 - We capture the presentation on the 2nd (extended) display of the laptop. 
   - Please don't change display settings to "duplicate" screen during the recording (let us know in advance in case such mode is needed)
-  - To move a window from tha main to extended screen press ["Windows" + "Shift" + "->"] (or just drag it with mouse)
+  - To move a window from the main to extended screen press ["Windows" + "Shift" + "->"] (or just drag it with mouse)
