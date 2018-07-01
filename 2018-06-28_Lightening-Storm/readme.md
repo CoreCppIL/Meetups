@@ -11,7 +11,7 @@
 - [☇What Bug Hunting Taught Me About Hunting Bugs](BugHunting.pdf), Adi Shavit (PDF)
 - [☇Interesting Algorithms (Just Say No to Raw Loops)](InterestingAlgorithms.pdf), Shimon Shore (PDF)
 - [☇“crtp” design pattern (Curiously Recurring Template Pattern)](CRTP.pdf), Avi Lachmish (PDF)
-- [☇Concurrency and the C++ Memory Model](ConcurrencyCppMemoryModel.pdf) Pavel Yosifovich
+- [Concurrency and the C++ Memory Model](ConcurrencyCppMemoryModel.pdf) Pavel Yosifovich
 
 
 We are grateful to the sponsor of our meeting:  
