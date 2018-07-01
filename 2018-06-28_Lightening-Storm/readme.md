@@ -6,7 +6,7 @@
 - Lightning Talks:
   - [⚡ Using namespace is bad, use namespace](UsingNamespaceIsBad.pdf), Yehezkel Bernat
   - [⚡ ADL as a customization point](ADL_as_a_customization_point.pdf), Shalom Craimer
-  - [⚡Code generation from C++ code using clang](Code_to_Code_clang.pdf), Asaf Helfer
+  - [⚡ Code generation from C++ code using clang](Code_to_Code_clang.pdf), Asaf Helfer
   - [⚡ Android++](Android++.pdf), Alex Cohn
   - [⚡ GPU vs CPU: comparing apples to watermelons](GPUvsCPU.pdf), Michael Gopshtein
   - [⚡ What Bug Hunting Taught Me About Hunting Bugs](BugHunting.pdf), Adi Shavit
