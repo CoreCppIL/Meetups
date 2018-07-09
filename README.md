@@ -8,6 +8,7 @@ Slides, presentations and reference material from our meetings.
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
 **2018**
+- [Core Sea++ TLV](2018-07-03_Core-Sea++TLV) 3 July 2018
 - [Lightning Storm](2018-06-28_Lightening-Storm) 28 June 2018
 - [Practical C++ with Asio and Variant](2018-05-28_Practical-C++Asio-Variant) 28 May 2018
 - [C++ Distilled: Language Focus](2018-04-12_C++-Distilled) 12 Apr 2018
