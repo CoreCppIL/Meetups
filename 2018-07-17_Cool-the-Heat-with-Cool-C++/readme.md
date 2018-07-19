@@ -9,7 +9,7 @@
 
 We are grateful to the sponsors of this meeting:  
 
-![Final](../assets/sponsor-logos/final.jpeg)  
+![Final](../assets/sponsor-logos/final.jpg)  
 ![ShellTech](../assets/sponsor-logos/ShellTechLogo_120x90.png) 
 
 
