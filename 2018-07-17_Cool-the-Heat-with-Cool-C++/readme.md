@@ -3,8 +3,8 @@
 
 ## Contents:
 - [News and Updates](CoreC++News+Updates.pdf), Adi Shavit
-- [My shift proposal, or: how to make an addition to the C++ standard](Multi-proces-vs-Multi-threaded-Dori-Exterman.pdf), Dan Raviv
-- [When securing C++ code use C++ solutions](C++-production.pdf), Yair Friedman
+- [My shift proposal, or: how to make an addition to the C++ standard](C++Contributer'sGuide.pdf), Dan Raviv
+- [When securing C++ code use C++ solutions](YairFriedman-WhenSecuringCpp.pdf), Yair Friedman
 - Understanding Optimizers: Helping the Compiler Help You, Nir Friedman
 
 We are grateful to the sponsors of this meeting:  
