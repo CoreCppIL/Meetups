@@ -1,4 +1,4 @@
-# Distributed C++20
+# Distributed C++ Meetup
 2018-10-25: Our 13th monthly meetup! Distrubuted metup with Stockholm and Malmö user groups.
 
 ## Contents:
