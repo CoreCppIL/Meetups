@@ -8,6 +8,7 @@ Slides, presentations and reference material from our meetings.
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
 **2018**
+- [Distributed C++ Meetup](2018-10-25_Distributed) 25 Oct 2018
 - [Sweet C++20](2018-09-17_Sweet-C++) 17 Sep 2018
 - [Core C++ @ TLV](2018-08-18_Core-C++TLV) 16 Aug 2018
 - [Cool the Heat with Cool C++](2018-07-17_Cool-the-Heat-with-Cool-C++) 17 July 2018
