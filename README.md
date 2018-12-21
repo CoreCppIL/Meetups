@@ -8,6 +8,7 @@ Slides, presentations and reference material from our meetings.
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
 **2018**
+- [C++ Everywhere](2018-12-20_C++-Everywhere) 20 Dec 2018
 - [The Fast and the Furious C++](2018-11-27_FastFurious) 27 Nov 2018
 - [Distributed C++ Meetup](2018-10-25_Distributed) 25 Oct 2018
 - [Sweet C++20](2018-09-17_Sweet-C++) 17 Sep 2018
