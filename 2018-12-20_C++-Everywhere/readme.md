@@ -8,7 +8,7 @@
 
 This meeting was sponsored by Infinity Labs R&D:  
 
-![Infinity Labs](../assets/sponsor-logos/InfinityLabsNew.jpg)  
+![Infinity Labs](../assets/sponsor-logos/InfinityLabsNew.png)  
 
 
 
