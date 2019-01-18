@@ -7,6 +7,9 @@
 Slides, presentations and reference material from our meetings.  
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
+**2019**
+- [C++ and Internet of Things :: IoT++](2019-01-17_C++and-Internet-of-Things_IoT++) 17 Jan 2019
+
 **2018**
 - [C++ Everywhere](2018-12-20_C++-Everywhere) 20 Dec 2018
 - [The Fast and the Furious C++](2018-11-27_FastFurious) 27 Nov 2018
