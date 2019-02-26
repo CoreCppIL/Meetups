@@ -10,6 +10,6 @@
 
 We are grateful to the sponsors of this meeting:  
 
-![MTA | The Academic College of Tel Aviv-Yaffo](../assets/sponsor-logos/MTA_logo_eng.png)  
+![MTA The Academic College of Tel Aviv-Yaffo](../assets/sponsor-logos/MTA_logo_eng.png)  
 
 ![CheckPoint](../assets/sponsor-logos/checkpoint.jpg)
