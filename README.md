@@ -8,6 +8,7 @@ Slides, presentations and reference material from our meetings.
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
 **2019**
+- [Chill C++ @ MTA (TLV)](2019-07-30_Chill-C++@MTA) 30 Jul 2019
 - [Post Core C++ 2019 Meetup](2019-06-27_Post_Core_C++_2019) 27 Jun 2019
 - [Distributed JLM/TLV C++ Meetup!](2019-03-28_Distributed_TLV_JLM) 28 Mar 2019
 - [Core C++ @ MTA (TLV)](2019-02-19_Core_C++@MTA) 19 Feb 2019
