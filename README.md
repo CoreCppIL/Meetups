@@ -55,4 +55,4 @@ Wanna give a talk, or perhaps lead some other type of session, at a future Core 
 Great! Thanks! We're a product of the community, so we need people from all backgrounds to take their turn at the front.
 Traditional talks - of all sorts of lengths - are always welcome, but we're also interested in different format and activities (discussions, games, workshops etc).
 
-Please fill in [**this form**](https://t.co/pvP6WE2vpl) to get the ball rolling!
+Please fill in [**this form**](https://forms.gle/uWPUXDrE3R6agsRq6) to get the ball rolling!
