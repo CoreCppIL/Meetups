@@ -8,6 +8,8 @@ Slides, presentations and reference material from our meetings.
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
 **2019**
+- [Core C++ Octoberfest](2019-10-24_Core_C++_Octoberfest) 24 Oct 2019
+- [Rothschild C++ TLV](2019-09-25_Rothschild-C++-TLV) 25 Sep 2019
 - [End summer with C++!](2019-08-29_Summer_CoreC++_2019) 29 Aug 2019
 - [Chill C++ @ MTA (TLV)](2019-07-30_Chill-C++@MTA) 30 Jul 2019
 - [Post Core C++ 2019 Meetup](2019-06-27_Post_Core_C++_2019) 27 Jun 2019
@@ -29,9 +31,9 @@ Note that not all presentation slides are optimized for reading without the acco
 - [SIMD, Span And Salami](2018-03-15_SIMD-Span-and-Salami) 15 Mar 2018
 - [Hard Core C++](2018-02-22_Hard-Core-C++) 22 Feb 2018
 - [Spectre And More](2018-01-29_Spectre-And-More) 19 Jan 2018
-- [End of Year Inspirations](2017-12-28_End-Of-Year-Inspirations) 28 Dec 2017
 
 **2017**
+- [End of Year Inspirations](2017-12-28_End-Of-Year-Inspirations) 28 Dec 2017
 - [Kick-Off Meeting](2017-11-30_Kick-Off-Meeting) 30 Nov 2017
 
 ## Find Us
