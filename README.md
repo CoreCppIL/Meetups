@@ -8,6 +8,8 @@ Slides, presentations and reference material from our meetings.
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
 **2019**
+- [Solstice Season Core C++](2019-12-24_Solstice_Season_Core_C++) 24 Dec 2019
+- [Year 3 Kickoff: Probabilistic Data Structures, IoT and More!](2019-11-27_Probabilistic_Data_Structures_IoT_and_More) 27 Nov 2019
 - [Core C++ Octoberfest](2019-10-24_Core_C++_Octoberfest) 24 Oct 2019
 - [Rothschild C++ TLV](2019-09-25_Rothschild-C++-TLV) 25 Sep 2019
 - [End summer with C++!](2019-08-29_Summer_CoreC++_2019) 29 Aug 2019
