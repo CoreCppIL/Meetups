@@ -7,6 +7,9 @@
 Slides, presentations and reference material from our meetings.  
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
+**2020**
+- [Deep Winter Instacore C++](2020-01-28_Deep_Winter_Instacore_C++) 28 Jan 2020
+
 **2019**
 - [Solstice Season Core C++](2019-12-24_Solstice_Season_Core_C++) 24 Dec 2019
 - [Year 3 Kickoff: Probabilistic Data Structures, IoT and More!](2019-11-27_Probabilistic_Data_Structures_IoT_and_More) 27 Nov 2019
