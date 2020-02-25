@@ -10,7 +10,9 @@ Note that not all presentation slides are optimized for reading without the acco
 **2020**
 - [Deep Winter Instacore C++](2020-01-28_Deep_Winter_Instacore_C++) 28 Jan 2020
 
-**2019**
+<details>
+  <summary><b>2019</b><p></summary>
+  
 - [Solstice Season Core C++](2019-12-24_Solstice_Season_Core_C++) 24 Dec 2019
 - [Year 3 Kickoff: Probabilistic Data Structures, IoT and More!](2019-11-27_Probabilistic_Data_Structures_IoT_and_More) 27 Nov 2019
 - [Core C++ Octoberfest](2019-10-24_Core_C++_Octoberfest) 24 Oct 2019
@@ -21,8 +23,11 @@ Note that not all presentation slides are optimized for reading without the acco
 - [Distributed JLM/TLV C++ Meetup!](2019-03-28_Distributed_TLV_JLM) 28 Mar 2019
 - [Core C++ @ MTA (TLV)](2019-02-19_Core_C++@MTA) 19 Feb 2019
 - [C++ and Internet of Things :: IoT++](2019-01-17_C++and-Internet-of-Things_IoT++) 17 Jan 2019
+</details>
 
-**2018**
+<details>
+  <summary><b>2018</b><p></summary>
+  
 - [C++ Everywhere](2018-12-20_C++-Everywhere) 20 Dec 2018
 - [The Fast and the Furious C++](2018-11-27_FastFurious) 27 Nov 2018
 - [Distributed C++ Meetup](2018-10-25_Distributed) 25 Oct 2018
@@ -36,10 +41,14 @@ Note that not all presentation slides are optimized for reading without the acco
 - [SIMD, Span And Salami](2018-03-15_SIMD-Span-and-Salami) 15 Mar 2018
 - [Hard Core C++](2018-02-22_Hard-Core-C++) 22 Feb 2018
 - [Spectre And More](2018-01-29_Spectre-And-More) 19 Jan 2018
+</details>
 
-**2017**
+<details>
+  <summary><b>2017</b><p></summary>
+  
 - [End of Year Inspirations](2017-12-28_End-Of-Year-Inspirations) 28 Dec 2017
 - [Kick-Off Meeting](2017-11-30_Kick-Off-Meeting) 30 Nov 2017
+</details>
 
 ## Find Us
 
