@@ -50,6 +50,9 @@ Note that not all presentation slides are optimized for reading without the acco
 - [Facebook](https://facebook.com/corecpp)
 - [Twitter](https://twitter.com/corecpp)
 
+## Sponsor Us
+- [Sponsorship Prospectus](https://corecppil.github.io/Prospectus/Sponsors.html)  
+
 ## Contact Us
 - [Adi Shavit](mailto:adishavit@gmail.com) :: [Twitter](https://twitter.com/adishavit)
 - [Michael Gopshtein](mailto:mgopshtein@gmail.com) :: [Twitter](https://twitter.com/michael_gop)
