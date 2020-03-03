@@ -3,7 +3,7 @@
 
 ## Contents:
 - Welcome notes, Adi Shavit
-- [ABI - What, Where, Why and When](ABI.pdf) + [code examples](ABICodeExamples), Yehezkel Bernat
+- [ABI - What, Where, Why and When](ABI.pdf) + [code examples](ABICodeExamples.zip), Yehezkel Bernat
 - [Prague ISO Trip Reoprt](Prague_Trip_Report.pdf), Inbal Levi
 
 We are grateful to the sponsor of this meeting:  
