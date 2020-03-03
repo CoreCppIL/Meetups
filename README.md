@@ -11,7 +11,7 @@ Note that not all presentation slides are optimized for reading without the acco
 - [Core C++20 Celebration](2020-02-26_Core_C++20_Celebration) 26 Feb 2020
 - [Deep Winter Instacore C++](2020-01-28_Deep_Winter_Instacore_C++) 28 Jan 2020
 
-**2019**
+**2019**  
 - [Solstice Season Core C++](2019-12-24_Solstice_Season_Core_C++) 24 Dec 2019
 - [Year 3 Kickoff: Probabilistic Data Structures, IoT and More!](2019-11-27_Probabilistic_Data_Structures_IoT_and_More) 27 Nov 2019
 - [Core C++ Octoberfest](2019-10-24_Core_C++_Octoberfest) 24 Oct 2019
@@ -23,7 +23,7 @@ Note that not all presentation slides are optimized for reading without the acco
 - [Core C++ @ MTA (TLV)](2019-02-19_Core_C++@MTA) 19 Feb 2019
 - [C++ and Internet of Things :: IoT++](2019-01-17_C++and-Internet-of-Things_IoT++) 17 Jan 2019
 
-**2018**
+**2018**  
 - [C++ Everywhere](2018-12-20_C++-Everywhere) 20 Dec 2018
 - [The Fast and the Furious C++](2018-11-27_FastFurious) 27 Nov 2018
 - [Distributed C++ Meetup](2018-10-25_Distributed) 25 Oct 2018
@@ -38,7 +38,7 @@ Note that not all presentation slides are optimized for reading without the acco
 - [Hard Core C++](2018-02-22_Hard-Core-C++) 22 Feb 2018
 - [Spectre And More](2018-01-29_Spectre-And-More) 19 Jan 2018
 
-**2017**
+**2017**  
 - [End of Year Inspirations](2017-12-28_End-Of-Year-Inspirations) 28 Dec 2017
 - [Kick-Off Meeting](2017-11-30_Kick-Off-Meeting) 30 Nov 2017
 
@@ -50,6 +50,9 @@ Note that not all presentation slides are optimized for reading without the acco
 - [Slack](https://cpplang.slack.com/messages/C7UFRMFBP)
 - [Facebook](https://facebook.com/corecpp)
 - [Twitter](https://twitter.com/corecpp)
+
+## Sponsor Us
+- [Sponsorship Prospectus](https://corecppil.github.io/Prospectus/Sponsors.html)  
 
 ## Contact Us
 - [Adi Shavit](mailto:adishavit@gmail.com) :: [Twitter](https://twitter.com/adishavit)
