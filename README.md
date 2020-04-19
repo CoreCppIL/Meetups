@@ -8,6 +8,7 @@ Slides, presentations and reference material from our meetings.
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
 **2020**
+- [Core C++ in Cyberspace! - Online Event](2020-03-37_Core_C++_in_Cyberspace_Online) 6 Mar 2020
 - [Core C++20 Celebration](2020-02-26_Core_C++20_Celebration) 26 Feb 2020
 - [Deep Winter Instacore C++](2020-01-28_Deep_Winter_Instacore_C++) 28 Jan 2020
 
