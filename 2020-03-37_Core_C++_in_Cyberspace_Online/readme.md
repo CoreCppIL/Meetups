@@ -9,5 +9,5 @@
 
 We are grateful to the sponsor of this meeting:  
 
-![Istra](../assets/sponsor-logos/istra-research.jpg)
+![Istra](../assets/sponsor-logos/istra-research.png)
 
