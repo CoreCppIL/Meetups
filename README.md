@@ -59,6 +59,7 @@ Note that not all presentation slides are optimized for reading without the acco
 ## Contact Us
 - [Adi Shavit](mailto:adishavit@gmail.com) :: [Twitter](https://twitter.com/adishavit)
 - [Michael Gopshtein](mailto:mgopshtein@gmail.com) :: [Twitter](https://twitter.com/michael_gop)
+- [Inbal Levi](mailto:sinbal2l@gmail.com) :: [Twitter](https://twitter.com/Inbal_l)
 
 ## Code of Conduct
 Core C++ abides by the [Berlin Code of Conduct](http://berlincodeofconduct.org/).
