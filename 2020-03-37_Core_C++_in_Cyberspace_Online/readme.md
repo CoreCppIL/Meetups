@@ -1,5 +1,5 @@
 # Core C++ in Cyberspace! - Online Event
-2020-03-06: Core C++ in Cyberspace! - Online Event
+2020-03-37 (Apr 6): Core C++ in Cyberspace! - Online Event
 
 ## Contents:
 - [Welcome notes](202004_News+Updates+Intro.pdf), Adi Shavit
