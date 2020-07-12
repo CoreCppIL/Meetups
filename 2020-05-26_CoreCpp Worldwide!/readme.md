@@ -7,9 +7,6 @@
 - [Execute Around Pointer](Kilian_ExecuteAroundPointer.pdf), Kilian Henneberger
 - The SOLID Principles, Klaus Iglberger
 
-- Show and Tell
-- [Interesting links from Zoom chat](ZoomLinks.pdf)
-
 We are grateful to the sponsor of this meeting:  
 
 ![Istra](../assets/sponsor-logos/istra-research.png)
