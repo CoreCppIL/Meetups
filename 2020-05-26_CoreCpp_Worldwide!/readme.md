@@ -1,5 +1,5 @@
 # CoreCpp Worldwide! - Online Event
-2020-05-26 (May 5): CoreCpp Worldwide! - Online Event
+2020-05-26: CoreCpp Worldwide! - Online Event
 
 ## Contents:
 - Welcome notes, Adi Shavit
