@@ -8,6 +8,7 @@ Slides, presentations and reference material from our meetings.
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
 **2020**
+- [Core C++ Worldwide - Online Event](2020-05-26_CoreCpp Worldwide!) 26 May 2020
 - [Core C++ marches on! - Online Event](2020-04-35_Core_C++_marches_on!) 5 May 2020
 - [Core C++ in Cyberspace! - Online Event](2020-03-37_Core_C++_in_Cyberspace_Online) 6 Apr 2020
 - [Core C++20 Celebration](2020-02-26_Core_C++20_Celebration) 26 Feb 2020
