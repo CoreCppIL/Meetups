@@ -5,7 +5,7 @@
 - Welcome notes, Adi Shavit
 - [C++ Usage In Work Environment](C++_Usage_In_Work_Environment_Survey_Results.pdf), Inbal Levi
 - [Execute Around Pointer](Kilian_ExecuteAroundPointer.pdf), Kilian Henneberger
-- The SOLID Principles, Klaus Iglberger
+- [The SOLID Principles](The_SOLID_Principles.pdf), Klaus Iglberger
 
 We are grateful to the sponsor of this meeting:  
 
