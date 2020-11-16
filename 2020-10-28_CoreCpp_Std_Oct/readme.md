@@ -6,7 +6,5 @@
 - A fun example of polymorphism with std::function, Dima Udashnik aka StoryTeller
 - [P0847 - Deducing this](P0847-Deducing-this.pdf), Amir Kirsh
 
-We are grateful to the sponsor of this meeting:  
 
-![Istra](../assets/sponsor-logos/istra-research.png)
 
