@@ -3,7 +3,7 @@
 
 ## Contents:
 - Welcome notes, Adi Shavit
-- A fun example of polymorphism with std::function, Dima Udashnik aka StoryTeller
+- [A fun example of polymorphism with std::function](StdFunctionPoly.pdf), Dima Udashnik aka StoryTeller
 - [P0847 - Deducing this](P0847-Deducing-this.pdf), Amir Kirsh
 
 
