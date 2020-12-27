@@ -8,6 +8,7 @@ Slides, presentations and reference material from our meetings.
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
 **2020**
+- [CoreC++: Winter Is Coming](2020-11-31_Winter_Is_Coming) 1 Dec 2020
 - [zoom << std::oct << "Core C++" << '\a';](2020-10-28_CoreCpp_Std_Oct) 28 Oct 2020
 - Core C++: A Visit from the Big Apple! - Online Event  23 Sep 2020
 - [CoreCpp World Tour! - Online Event](2020-06-31_CoreCpp_World_Tour!) 1 Jul 2020
