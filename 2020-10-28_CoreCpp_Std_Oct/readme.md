@@ -1,4 +1,4 @@
-# CoreCpp World Tour! - Online Event
+# zoom << std::oct << "Core C++" << '\a'; - Online Event
 2020-10-28: zoom << std::oct << "Core C++" << '\a';
 
 ## Contents:
