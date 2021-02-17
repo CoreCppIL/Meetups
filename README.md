@@ -10,7 +10,7 @@ Note that not all presentation slides are optimized for reading without the acco
 **2020**
 - [CoreC++: Winter Is Coming](2020-11-31_Winter_Is_Coming) 1 Dec 2020
 - [zoom << std::oct << "Core C++" << '\a';](2020-10-28_CoreCpp_Std_Oct) 28 Oct 2020
-- Core C++: A Visit from the Big Apple! - Online Event  23 Sep 2020
+- [Core C++: A Visit from the Big Apple! - Online Event](2020-09-23_A_Visit_From_The_Big_Apple) 23 Sep 2020
 - [CoreCpp World Tour! - Online Event](2020-06-31_CoreCpp_World_Tour!) 1 Jul 2020
 - [Core C++ Worldwide - Online Event](2020-05-26_CoreCpp_Worldwide!) 26 May 2020
 - [Core C++ marches on! - Online Event](2020-04-35_Core_C++_marches_on!) 5 May 2020
