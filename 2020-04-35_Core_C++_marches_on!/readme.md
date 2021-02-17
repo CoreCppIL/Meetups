@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <a href="https://www.youtube.com/embed/ecOqOlpjO_wE"><img src="The_std_tuple_Noam_Weiss.JPG" alt="The std::tuple" width="500"></a>
+  <a href="https://youtu.be/ecOqOlpjO_w"><img src="The_std_tuple_Noam_Weiss.JPG" alt="The std::tuple" width="500"></a>
 </div>
 
 - Show and Tell
