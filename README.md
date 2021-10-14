@@ -8,6 +8,7 @@ Slides, presentations and reference material from our meetings.
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
 **2021**
+- [Core C++: Connecting The Dots](2021-06-29_Core_C++_Connecting_The_Dots) 29 Jun 2021
 - [Core C++: Dependencies Free!](2021-04-28_Core_C++_Dependencies_Free!) 28 Apr 2021
 - [Core C++: Spring Break](2021-03-24_Core_C++_Spring_Break) 24 Mar 2021
 - Core C++: Winter Is Here  24 Feb 2021
