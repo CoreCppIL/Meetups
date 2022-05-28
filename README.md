@@ -7,7 +7,19 @@
 Slides, presentations and reference material from our meetings.  
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
+**2022**
+- Core C++ :: Moving Fast 25 May 2022
+- Core C++ :: Customizations 26 Apr 2022
+- Core C++ :: Special Guest: Walter E. Brown 31 Mar 2022
+- [Core C++ :: Build To Last](2022-02-23_Build_To_Last) 23 Feb 2022
+- Core C++ :: Virtual Parallelism 26 Jan 2022
+
 **2021**
+- Core C++ :: Happy Birthday! 30 Dec 2021
+- Core C++ :: New Observations 28 Nov 2021
+- Core C++ :: Opposite Reflections 14 Oct 2021
+- Core C++ :: After the Holidays 20 Sep 2021
+- Core C++: Making it Personal! 4 Aug 2021
 - [Core C++: Connecting The Dots](2021-06-29_Core_C++_Connecting_The_Dots) 29 Jun 2021
 - [Core C++: Dependencies Free!](2021-04-28_Core_C++_Dependencies_Free!) 28 Apr 2021
 - [Core C++: Spring Break](2021-03-24_Core_C++_Spring_Break) 24 Mar 2021
