@@ -10,7 +10,7 @@ Note that not all presentation slides are optimized for reading without the acco
 **2022**
 - Core C++ :: Moving Fast 25 May 2022
 - Core C++ :: Customizations 26 Apr 2022
-- Core C++ :: Special Guest: Walter E. Brown 31 Mar 2022
+- [Core C++ :: Special Guest: Walter E. Brown](2022-03-31_SpecialGuest_WalterEBrown) 31 Mar 2022
 - [Core C++ :: Build To Last](2022-02-23_Build_To_Last) 23 Feb 2022
 - Core C++ :: Virtual Parallelism 26 Jan 2022
 
